@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jalal Mehmandoust.
 - 👀 I’m interested in problem solving with programming and making good looking user interfaces.
 - 🌱 I’m currently learning real time communication.
-- 💞️ I’m looking to collaborate on javascript based projects.
+- 💞️ I’m looking to collaborate on Javascript based projects.
 
 
 <!---
